@@ -1,4 +1,4 @@
-# 🚀 EchoNull Contact Manager
+# EchoNull
 
 <div align="center">
 
@@ -26,7 +26,6 @@
 - [API Documentation](#-api-documentation)
 - [Performance](#-performance)
 - [Security](#-security)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
