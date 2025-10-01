@@ -499,36 +499,6 @@ bool isServerRunning(void);
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
-### Development Workflow
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Make** your changes
-4. **Test** thoroughly (`make test`)
-5. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-6. **Push** to the branch (`git push origin feature/amazing-feature`)
-7. **Open** a Pull Request
-
-### Code Style
-
-- **Indentation**: 4 spaces (no tabs)
-- **Naming**: `snake_case` for functions, `camelCase` for variables
-- **Comments**: Function documentation and complex logic explanation
-- **Formatting**: Use `make format` to apply consistent formatting
-
-### Testing Requirements
-
-- All tests must pass (`make test`)
-- New features require test coverage
-- Performance regression testing for optimizations
-- Memory leak testing with Valgrind (Linux)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
