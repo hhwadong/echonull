@@ -30,38 +30,38 @@
 
 ---
 
-## 🌟 About
+## About
 
 **EchoNull** is a sophisticated contact management system written in C11 that combines elegant design with enterprise-grade functionality. Built with performance, security, and user experience in mind, EchoNull showcases advanced C programming techniques including custom memory management, network synchronization, and comprehensive testing frameworks.
 
 ### Why EchoNull?
 
-- 🎨 **Beautiful CLI Interface**: Professional terminal UI with ASCII art and colors
-- ⚡ **High Performance**: Sub-microsecond operation times with custom memory allocator
-- 🔒 **Secure**: Built-in encryption and secure data handling
-- 🌐 **Network Ready**: TCP-based synchronization between instances
-- 🧪 **Production Tested**: Comprehensive test suite with 89.5% coverage
-- 📊 **Memory Analysis**: Advanced memory management with fragmentation visualization
-- 🔧 **Extensible**: Modular architecture for easy customization
+-  **Beautiful CLI Interface**: Professional terminal UI with ASCII art and colors
+-  **High Performance**: Sub-microsecond operation times with custom memory allocator
+-  **Secure**: Built-in encryption and secure data handling
+-  **Network Ready**: TCP-based synchronization between instances
+-  **Production Tested**: Comprehensive test suite with 89.5% coverage
+-  **Memory Analysis**: Advanced memory management with fragmentation visualization
+-  **Extensible**: Modular architecture for easy customization
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎯 Core Functionality
+###  Core Functionality
 - **Contact Management**: Add, update, delete, and search contacts
 - **Data Persistence**: Automatic save/load with file-based storage
 - **Input Validation**: Robust error handling and input sanitization
 - **Duplicate Detection**: Prevent contact duplication with intelligent checking
 
-### 🎨 User Interface
+###  User Interface
 - **Beautiful ASCII Logo**: Professionally designed terminal art
 - **Centered Menu Layout**: Responsive design that adapts to terminal width
 - **Color-Coded Interface**: ANSI color codes for better visual hierarchy
 - **Intuitive Navigation**: Numbered menu with descriptive options
 - **Progress Indicators**: Real-time feedback for long operations
 
-### 🧪 Testing Framework
+###  Testing Framework
 - **Unit Tests**: 21 comprehensive unit tests with 100% pass rate
 - **Integration Tests**: Full lifecycle testing across modules
 - **Performance Benchmarks**: Sub-millisecond operation timing
@@ -69,19 +69,19 @@
 - **Security Validation**: Encryption and data integrity verification
 - **Automated CI/CD**: Professional testing pipeline scripts
 
-### 💾 Memory Management
+###  Memory Management
 - **Custom Allocator**: First-fit algorithm with coalescing
 - **Memory Visualization**: Real-time memory usage analysis
 - **Fragmentation Analysis**: Detailed memory health reporting
 - **Leak Prevention**: Automatic cleanup and memory tracking
 
-### 🌐 Network Features
+###  Network Features
 - **TCP Server/Client**: Network synchronization capabilities
 - **XOR Encryption**: Secure data transmission
 - **Multi-client Support**: Concurrent connection handling
 - **Protocol Implementation**: Structured message exchange
 
-### 🔒 Security
+###  Security
 - **Data Encryption**: XOR-based encryption for sensitive data
 - **Input Sanitization**: Protection against buffer overflows
 - **Secure Memory**: Custom allocator with security features
@@ -89,7 +89,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 echonull/
@@ -120,7 +120,7 @@ echonull/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -227,7 +227,7 @@ make lint
 
 ### Advanced Features
 
-#### 🌐 Network Synchronization
+####  Network Synchronization
 
 **Start Server:**
 ```bash
@@ -279,7 +279,7 @@ Fragmentation: 25.00%
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 EchoNull includes a comprehensive testing framework designed for enterprise-grade quality assurance.
 
@@ -352,7 +352,7 @@ int main() {
 
 ---
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Core Data Structures
 
@@ -473,7 +473,7 @@ bool isServerRunning(void);
 
 ---
 
-## 🔒 Security
+##  Security
 
 ### Encryption
 
@@ -528,7 +528,7 @@ SOFTWARE.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **C Standard Library**: For robust system interfaces
 - **POSIX Threads**: For concurrent network operations
@@ -539,7 +539,7 @@ SOFTWARE.
 
 ---
 
-## 📞 Support
+## Support
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/echonull/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/echonull/discussions)
