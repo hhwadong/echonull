@@ -7,8 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey?style=for-the-badge)
 
-*A beautiful, high-performance contact management system with professional-grade testing and enterprise features.*
-
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Testing](#-testing) • [API](#-api) • [Contributing](#-contributing)
 
 </div>
